@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eth",
+				"ethSwap"
+			],
+			[
+				"eths",
+				"ethSwap"
+			],
+			[
+				"Eth",
+				"EthSwap"
+			],
+			[
+				"to",
+				"tokenBalance"
+			],
+			[
+				"tok",
+				"tokenBalance"
+			],
+			[
+				"ne",
+				"netwrokID"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"Na",
+				"Navbar"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"et",
+				"ethBalance"
+			],
+			[
+				"s",
+				"setState"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"loa",
+				"loadBlockchainData"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"toke",
+				"token"
+			],
+			[
+				"To",
+				"TokenPurchased"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"bal",
+				"balanceOf"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"t",
+				"token"
+			],
+			[
+				"_",
+				"_value"
+			],
+			[
+				"a",
+				"Approval"
+			],
+			[
+				"T",
+				"Transfer"
+			],
+			[
+				"ui",
+				"uint256"
+			],
+			[
+				"uint",
+				"uint256"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tachi/AppData/Local/Temp/Rar$DRa30988.19906/eth_swap-5-buy-tokens-fe/src/components/App.js",
+		"/C/Users/tachi/projects/dappuniversity_exchange/starter_kit/test/EthSwap.test.js",
+		"/C/Users/tachi/projects/dappuniversity_exchange/starter_kit/migrations/2_deploy_contracts.js",
+		"/C/Users/tachi/projects/dappuniversity_exchange/starter_kit/src/contracts/Token.sol",
+		"/C/Users/tachi/projects/dappuniversity_exchange/starter_kit/src/contracts/EthSwap.sol",
+		"/C/Users/tachi/projects/hello_world/Cargo.toml",
+		"/C/Users/tachi/projects/hello_world/hello_world.rs"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Main.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
